@@ -24,5 +24,6 @@ higher ability to segment complex skin lesions more accurately.
 
 ## 📦 Datasets
 The following link contains the files for all the 3 datasets used in the paper: Ham10000, ISIC2018 and PH2.
-abc.123
+
+https://drive.google.com/drive/folders/1Z8EFFS70UO0DwX2qDZY63FyyblSUEGbd?usp=sharing
 
